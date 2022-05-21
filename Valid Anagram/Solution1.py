@@ -20,4 +20,4 @@ class Solution:
         return True
 
 # Time Complexity O(n) because iterating over all n times of string
-# Space Complexity O(n) because of hashmap
+# Space Complexity O(n) because of hashmap takes n spaces
