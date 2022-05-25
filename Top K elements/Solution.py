@@ -17,4 +17,4 @@ class Solution:
                     return res
                 
 # Time complexity O(n) because of bucket sort
-# if heap used then the time complexity would have been O(klogn)
+# If heap used then the time complexity would have been O(klogn)
